@@ -1,0 +1,6 @@
+2021-05-24T15:20:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp-includes/class-wp-image-editor-imagick.php on line 373
+
+2021-05-24T15:20:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp-includes/class-wp-image-editor-imagick.php on line 362
+
+2021-05-24T15:20:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp-includes/Requests/Hooks.php on line 61
+
